@@ -25,7 +25,7 @@
 
 ## 🔮 **Technologies and tools** 🔮
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,figma,rider,css,html" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,figma,rider,css,html, mysql" />
 </p>
 
 ---
