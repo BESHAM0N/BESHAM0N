@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b122c482-50fe-4793-88b2-7c6104065229" width="100">
+</p>
 
-<!--
-**BESHAM0N/BESHAM0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">   
+  Hello! My name is Anastasia 
+  <br> I am a Unity Developer  
+</h1> 
 
-Here are some ideas to get you started:
+<p align="center"> 
+  I develop games in Unity and teach kids programming. 
+  My goal is to become part of a team creating that one big hit that everyone will love!🐾 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🐈‍⬛ **About Me** 🐈‍⬛
+- 🎮 **Unity Developer** | 🌃 Moscow, Russia  
+- 🖥️ Developing games & teaching Unity  
+- 🐾 Passionate about Game Design, VR/AR & AI  
+- 🌸 Seeking opportunities to work on ambitious game projects  
+- 🌠 **Goal:** create a game that will capture players' hearts!  
+
+---
+
+## 🔮 **Technologies and tools** 🔮
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,figma,rider,css,html" />
+</p>
+
+---
+
+## 💮 **Profile statistics** 💮
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BESHAM0N&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BESHAM0N&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
