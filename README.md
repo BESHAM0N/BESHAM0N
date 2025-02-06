@@ -1,12 +1,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58c64798-cc6f-4cad-89d2-f10796b3e3ad" width="100">
 </p>
-
 <h1 align="center">   
   Hello! My name is Anastasia 
   <br> I am a Unity Developer  
 </h1> 
-
 <p align="center"> 
   I develop games in Unity and teach kids programming. 
   My goal is to become part of a team creating that one big hit that everyone will love!🐾 
