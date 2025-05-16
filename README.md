@@ -15,7 +15,7 @@
 ## 🐈‍⬛ **About Me** 🐈‍⬛
 - 🎮 **Unity Developer** | 🌃 Moscow, Russia  
 - 🖥️ Developing games & teaching Unity  
-- 🐾 Passionate about Game Design, VR/AR & AI  
+- 🐾 Passionate about Game Design 
 - 🌸 Seeking opportunities to work on ambitious game projects  
 - 🌠 **Goal:** create a game that will capture players' hearts!  
 
