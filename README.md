@@ -11,11 +11,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake.svg?palette=custom&color_snake=#ff69b4&color_dots=#ffffff,#f0f0ff,#dab6fc&color_bg=#9b59b6" />
 </p>
 
 ---
