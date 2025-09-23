@@ -10,6 +10,14 @@
   My goal is to become part of a team creating that one big hit that everyone will love!🐾 
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 🐈‍⬛ **About Me** 🐈‍⬛
