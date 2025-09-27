@@ -10,6 +10,7 @@
   My goal is to become part of a team creating that one big hit that everyone will love!🐾 
 </p>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BESHAM0N/BESHAM0N/output/github-snake.svg?palette=custom&color_snake=#ff69b4&color_dots=#ffffff,#f0f0ff,#dab6fc&color_bg=#9b59b6" />
 </p>
