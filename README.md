@@ -34,10 +34,19 @@
 
 ---
 
-## 🃏 **My game** 🃏 ##
-https://besham0n.itch.io/elemental-arena
-https://besham0n.itch.io/vampire-housekeeping
-https://myindie.ru/games/game/felinebloodline
+## 🃏 **My Games** 🃏 ##
+
+### 🎪 [Elemental Arena](https://besham0n.itch.io/elemental-arena)
+**Genre:** Card-Strategy
+Welcome to Elemental Arena, where you become the mastermind behind the world's most spectacular circus! Assemble breathtaking performances by combining elemental acts and triggering incredible chain reactions using a unique element interaction table.
+
+### 🧛‍♂️ [Vampire Housekeeping](https://besham0n.itch.io/vampire-housekeeping)
+**Genre:** Puzzle / Management
+Immortality is not a guarantee of financial well-being! An ancient vampire, mired in debt, is forced to do the unthinkable and become maintenance staff for mortals who accidentally wandered into his catacombs. A cute 2D puzzle and management game.
+
+### 🐈 [Feline Bloodline](https://myindie.ru/games/game/felinebloodline)
+**Genre:** Roguelike Shooter
+Welcome to a world where a dynasty of cats fights for survival against foul-smelling frogs in silly hats! Each run is a new descendant of the previous hero. Fight using an elemental combat system based on your cat's blood type, and collect artifacts that pass unique bonuses down to the next generation.
 
 ---
 
