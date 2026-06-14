@@ -36,6 +36,8 @@
 
 ## 🃏 **My game** 🃏 ##
 https://besham0n.itch.io/elemental-arena
+https://besham0n.itch.io/vampire-housekeeping
+https://myindie.ru/games/game/felinebloodline
 
 ---
 
