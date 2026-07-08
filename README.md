@@ -48,6 +48,10 @@ Immortality is not a guarantee of financial well-being! An ancient vampire, mire
 **Genre:** Roguelike Shooter
 Welcome to a world where a dynasty of cats fights for survival against foul-smelling frogs in silly hats! Each run is a new descendant of the previous hero. Fight using an elemental combat system based on your cat's blood type, and collect artifacts that pass unique bonuses down to the next generation.
 
+### 🌗 [The Shifter](https://myindie.ru/games/game/the-shifter)
+**Genre:** Survival
+Welcome to a world where light and darkness are locked in one body, and you have to wage war... against himself..
+
 ---
 
 ## 💮 **Profile statistics** 💮
