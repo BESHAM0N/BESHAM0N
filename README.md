@@ -40,7 +40,7 @@
 **Genre:** Card-Strategy
 Welcome to Elemental Arena, where you become the mastermind behind the world's most spectacular circus! Assemble breathtaking performances by combining elemental acts and triggering incredible chain reactions using a unique element interaction table.
 
-### 🧛‍♂️ [Vampire Housekeeping](https://besham0n.itch.io/vampire-housekeeping)
+### 🧛‍♂️ [Vampire Housekeeping](https://myindie.ru/games/game/vampire-housekeeping)
 **Genre:** Puzzle / Management
 Immortality is not a guarantee of financial well-being! An ancient vampire, mired in debt, is forced to do the unthinkable and become maintenance staff for mortals who accidentally wandered into his catacombs. A cute 2D puzzle and management game.
 
